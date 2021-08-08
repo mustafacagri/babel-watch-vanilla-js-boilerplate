@@ -1,0 +1,13 @@
+*.mo
+*.po~
+.DS_Store
+.env
+.idea
+.vscode
+coverage
+google.json
+node_modules
+package-lock.json
+.local*
+dist/js/index.js
+src/js/index.js
